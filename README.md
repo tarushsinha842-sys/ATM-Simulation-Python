@@ -19,7 +19,7 @@ The program allows a user to create a 4-digit PIN, log in to the account, and pe
 - View transaction history
 - Exit and save account information
 
-## Technologies Used
+## MODULES Used
 
 - Python 3
 - `json`
